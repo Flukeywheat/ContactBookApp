@@ -1,0 +1,13 @@
+C:\Users\chapt\source\repos\ContactBookApp\ContactBookApp\ContactBookApp\bin\Debug\netstandard2.0\ContactBookApp.deps.json
+C:\Users\chapt\source\repos\ContactBookApp\ContactBookApp\ContactBookApp\bin\Debug\netstandard2.0\ContactBookApp.dll
+C:\Users\chapt\source\repos\ContactBookApp\ContactBookApp\ContactBookApp\bin\Debug\netstandard2.0\ref\ContactBookApp.dll
+C:\Users\chapt\source\repos\ContactBookApp\ContactBookApp\ContactBookApp\bin\Debug\netstandard2.0\ContactBookApp.pdb
+C:\Users\chapt\source\repos\ContactBookApp\ContactBookApp\ContactBookApp\obj\Debug\netstandard2.0\ContactBookApp.csprojAssemblyReference.cache
+C:\Users\chapt\source\repos\ContactBookApp\ContactBookApp\ContactBookApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\chapt\source\repos\ContactBookApp\ContactBookApp\ContactBookApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\chapt\source\repos\ContactBookApp\ContactBookApp\ContactBookApp\obj\Debug\netstandard2.0\ContactBookApp.AssemblyInfoInputs.cache
+C:\Users\chapt\source\repos\ContactBookApp\ContactBookApp\ContactBookApp\obj\Debug\netstandard2.0\ContactBookApp.AssemblyInfo.cs
+C:\Users\chapt\source\repos\ContactBookApp\ContactBookApp\ContactBookApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\chapt\source\repos\ContactBookApp\ContactBookApp\ContactBookApp\obj\Debug\netstandard2.0\ContactBookApp.dll
+C:\Users\chapt\source\repos\ContactBookApp\ContactBookApp\ContactBookApp\obj\Debug\netstandard2.0\ref\ContactBookApp.dll
+C:\Users\chapt\source\repos\ContactBookApp\ContactBookApp\ContactBookApp\obj\Debug\netstandard2.0\ContactBookApp.pdb
